@@ -125,7 +125,7 @@ A computer-vision project that uses **real-time hand tracking** to control a com
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shreyascode40&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shreyxo&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyascode40&layout=compact&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff" />
 
